@@ -1,7 +1,7 @@
 # Python-fundamentals
 ## Basic tasks using python fundamentals.
 
-##Python Fundamentals Exercises
+Python Fundamentals Exercises
 
 This repository contains Python code solutions for various fundamental exercises.
 
