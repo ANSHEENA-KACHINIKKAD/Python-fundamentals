@@ -7,7 +7,6 @@ This repository contains Python code solutions for various fundamental exercises
 
 ## Exercise 1: Printing Personal Information
 * **Description:** Prints your name, student number, and email address.
-*  Exercise 1
 *  code: input("Enter your name:")
          input("Enter your student number:")
          input("Enter email address:")
@@ -16,14 +15,12 @@ This repository contains Python code solutions for various fundamental exercises
 
 ## Exercise 2: Printing with Escape Sequences
 * **Description:** Prints information using escape sequences for formatting.
-* Exercise 2
 * code:  input("Enter your name:")
          input("\n Enter your student number:" )
          input("\n Enter email address:")
 
 ## Exercise 3: Arithmetic Operations
 * **Description:** Performs basic arithmetic operations on two numbers.
-* Exercise 3
 * code:   a=14
           b=7
           print(a,"+",b,"=",a+b)
@@ -34,19 +31,16 @@ This repository contains Python code solutions for various fundamental exercises
 
 ## Exercise 4: Printing Numbers 
 * **Description:** Displays the numbers from 1 to 5 as steps.
-* Exercise 4
 * code:  for i in range(1,6):
          print(i)
 
 ## Exercise 5: Multiline String Output
 * **Description:** Prints a multiline string with quotation marks and line breaks.
-* Exercise 5
 * code:  print('"SDK" stands for"Software Development Kit",\n whereas \n"IDE" stands for"Integrated Development Environment".')
 
 
 ## Exercise 6: String Formatting with Escape Sequences
 * **Description:** Demonstrates various string formatting techniques using escape sequences.
-* Exercise 6
 * code:  print("python is an \"awesome\"language.")
          print("python\n\t2023")
          print('I\'m from Entri.\b')
@@ -58,7 +52,6 @@ This repository contains Python code solutions for various fundamental exercises
 
 ## Exercise 7: Variable Types and Conversions
 * **Description:** Defines variables of different types and calculates their sum.
-* Exercise 7
 *  code:  num=23
           textnum="57"
           decimal=98.3
